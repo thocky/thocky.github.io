@@ -1,4 +1,4 @@
-# maerz.github.io
+# Notatki
 Takie tam proste notatki
 
 
