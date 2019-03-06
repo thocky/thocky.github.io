@@ -1,7 +1,7 @@
-# Notatki
-Takie tam proste notatki
+# Thock Thock
+Here are some notes...
 
 
 
-[Notatka 001](notatka001.md)
+[Note 001](note001.md)
 
