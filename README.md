@@ -1,5 +1,5 @@
 # Thocky
-Made with the THOCK sound
+Notes made with the THOCK sound
 
 
 
