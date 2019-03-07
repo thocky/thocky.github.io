@@ -1,4 +1,4 @@
-## A001: Compromise
+## Nothing comes for free
 
 Every idea comes with a cost. 
 
@@ -21,7 +21,7 @@ Examples of options that are not always the best choice:
 
 
 
-This matches to some concepts of the Japanese Way:
+This matches with some concepts of the Japanese Way:
 
 - Less yes/no, more 'shades of grey'
 - Everything is relative
